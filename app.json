@@ -1,0 +1,12 @@
+{
+    "expo": {
+     "name": "ToDoManager",
+     "icon": "./Utils/base.png",
+     "version": "1.0.0",
+     "slug": "your-app-slug",
+     "android": {
+       "package": "com.extricator.todomanager",
+       "versionCode": 1
+     }
+    }
+  }
